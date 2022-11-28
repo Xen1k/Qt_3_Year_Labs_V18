@@ -1,0 +1,42 @@
+{
+    "Teacher1": {
+        "surname": "Вальштейн",
+        "name": "Константин",
+        "patronymic": "Владимирович",
+        "department": "O7",
+        "image": "1.jpeg",
+        "jobTitle": "lecturer"
+    },
+    "Teacher2": {
+        "surname": "Бондарев",
+        "name": "Евгений",
+        "patronymic": "Сергеевич",
+        "department": "O7",
+        "image": "2.jpg",
+        "jobTitle": "department manager"
+    },
+    "Teacher3": {
+        "surname": "Бармина",
+        "name": "Анастасия",
+        "patronymic": "Александровна",
+        "department": "O7",
+        "image": "3.jpg",
+        "jobTitle": "lecturer"
+    },
+    "Teacher4": {
+        "surname": "Магомедов",
+        "name": "Ибрагим",
+        "patronymic": "Набиюлаевич",
+        "department": "?",
+        "image": "4.png",
+        "jobTitle": "lecturer"
+    },
+    "Teacher5": {
+        "surname": "Гущин",
+        "name": "Артём",
+        "patronymic": "Николаевич",
+        "department": "И9",
+        "image": "5.jpg",
+        "jobTitle": "lecturer"
+    }
+}

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuButton.qml</file>
+        <file>FriendsTab.qml</file>
+        <file>SettingsTab.qml</file>
+        <file>LibraryTab.qml</file>
+    </qresource>
+</RCC>

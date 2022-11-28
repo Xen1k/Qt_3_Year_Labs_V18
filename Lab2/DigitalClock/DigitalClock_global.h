@@ -1,0 +1,12 @@
+#ifndef DIGITALCLOCK_GLOBAL_H
+#define DIGITALCLOCK_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(DIGITALCLOCK_LIBRARY)
+#  define DIGITALCLOCK_EXPORT Q_DECL_EXPORT
+#else
+#  define DIGITALCLOCK_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // DIGITALCLOCK_GLOBAL_H

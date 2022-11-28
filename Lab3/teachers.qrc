@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data.json</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>1.jpeg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.png</file>
+        <file>5.jpg</file>
+    </qresource>
+</RCC>
